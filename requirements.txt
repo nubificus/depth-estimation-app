@@ -1,0 +1,5 @@
+huggingface_hub
+numpy
+opencv-python-headless
+tensorflow<2.16
+git+https://github.com/nubificus/vaccel-python

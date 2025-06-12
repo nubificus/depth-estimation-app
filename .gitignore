@@ -1,0 +1,5 @@
+__pycache__
+app/models/monocular_deployed_vaccel/*.so
+app/models/monocular_deployed_vaccel/lib_*/*
+app/models/monocular_deployed_vaccel/sanitized_*
+!**/.gitkeep
