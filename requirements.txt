@@ -1,5 +1,9 @@
-huggingface_hub
-numpy
 opencv-python-headless
-tensorflow<2.16
 git+https://github.com/nubificus/vaccel-python
+keras==2.15.0
+tensorflow[and-cuda]~=2.15.0
+numpy
+psutil
+opencv-python-headless
+huggingface_hub
+flask
